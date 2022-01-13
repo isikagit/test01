@@ -1,6 +1,6 @@
 package fr.isika.algojava;
 
-// Modif 9
+// Modif 10
 
 import java.util.Random;
 import java.util.Scanner;
